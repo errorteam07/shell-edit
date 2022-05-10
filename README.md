@@ -20,3 +20,7 @@ git clone https://github.com/errorteam07/shell-edit.git
 cd shell-edits
 chmod +777 shell-edits-kalilinux
 bash shell-edits-kalilinux
+
+FOR ROOT TERMINAL 
+
+run this command as a root user in both termux and linux.
