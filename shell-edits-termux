@@ -1,6 +1,6 @@
 cd .. && cd .. && cd usr && cd etc
 rm -rf motd motd-playstore motd-playstore.dpkg-old
-apt install figlet 
+pkg install figlet 
 echo ' echo "       @@@@@@@@@@@@@@@@@@ " ' >> bash.bashrc  
 echo ' echo "     @@@@@@@@@@@@@@@@@@@@@@@ " ' >> bash.bashrc 
 echo ' echo "   @@@@@@@@@@@@@@@@@@@@@@@@@@@ " ' >> bash.bashrc 
