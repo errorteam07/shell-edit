@@ -1,0 +1,17 @@
+cd .. && cd usr && cd etc
+rm -rf motd motd-playstore motd-playstore.dpkg-old
+echo " echo "       @@@@@@@@@@@@@@@@@@ " " >> bash.bashrc  
+echo " echo "     @@@@@@@@@@@@@@@@@@@@@@@ " " >> bash.bashrc 
+echo " echo "   @@@@@@@@@@@@@@@@@@@@@@@@@@@ " " >> bash.bashrc 
+echo " echo "  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@ " " >> bash.bashrc 
+echo " echo "  @@@@@@@@@@@@@@@/      \@@@/   @ " " >> bash.bashrc 
+echo " echo " @@@@@@@@@@@@@@@@\      @@  @___@ " " >> bash.bashrc 
+echo " echo " @@@@@@@@@@@@@ @@@@@@@@@@  | \@@@@@ " " >> bash.bashrc 
+echo " echo " @@@@@@@@@@@@@ @@@@@@@@@\__@_/@@@@@ " " >> bash.bashrc 
+echo " echo "  @@@@@@@@@@@@@@@/,/,/./'/_|.\'\,\ " " >> bash.bashrc 
+echo " echo "    @@@@@@@@@@@@@|  | | | | | | | | " " >> bash.bashrc 
+echo " echo "                  \_|_|_|_|_|_|_|_|  welcome sir lets hack the whole world " " >> bash.bashrc 
+echo " echo "   __________________________________________________________________________ " " >> bash.bashrc 
+echo " date && uname -a && figlet -f future " H A C K E R 0 7 " " >> bash.bashrc 
+echo " echo "   __________________________________________________________________________" " >> bash.bashrc 
+cd ~
