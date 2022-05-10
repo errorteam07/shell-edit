@@ -1,0 +1,14 @@
+echo ' echo "       @@@@@@@@@@@@@@@@@@ " ' >> .zshrc 
+echo ' echo "     @@@@@@@@@@@@@@@@@@@@@@@ " ' >> .zshrc
+echo ' echo "   @@@@@@@@@@@@@@@@@@@@@@@@@@@ " ' >> .zshrc
+echo ' echo "  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@ " ' >> .zshrc
+echo ' echo "  @@@@@@@@@@@@@@@/      \@@@/   @ " ' >> .zshrc
+echo ' echo " @@@@@@@@@@@@@@@@\      @@  @___@ " ' >> .zshrc
+echo ' echo " @@@@@@@@@@@@@ @@@@@@@@@@  | \@@@@@ " ' >> .zshrc
+echo ' echo " @@@@@@@@@@@@@ @@@@@@@@@\__@_/@@@@@ " ' >> .zshrc
+echo ' echo "  @@@@@@@@@@@@@@@/,/,/./,/_|.\,\,\ " ' >> .zshrc
+echo ' echo "    @@@@@@@@@@@@@/     HACKER     \ " ' >> .zshrc
+echo ' echo "                  \_______________/  welcome sir lets hack the whole world " ' >> .zshrc 
+echo ' echo "   __________________________________________________________________________ " ' >> .zshrc 
+echo ' date && uname -a && figlet -f digital " H A C K E R  " ' >> .zshrc
+echo ' echo "   __________________________________________________________________________" ' >> .zshrc
