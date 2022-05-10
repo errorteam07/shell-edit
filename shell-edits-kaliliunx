@@ -1,3 +1,4 @@
+apt install figlet
 echo ' echo "       @@@@@@@@@@@@@@@@@@ " ' >> .zshrc 
 echo ' echo "     @@@@@@@@@@@@@@@@@@@@@@@ " ' >> .zshrc
 echo ' echo "   @@@@@@@@@@@@@@@@@@@@@@@@@@@ " ' >> .zshrc
